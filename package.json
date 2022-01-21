@@ -1,0 +1,20 @@
+{
+  "name": "voxes-nuxt-sdk",
+  "version": "1.0.0",
+  "description": "Nuxt module with Voxes SDK",
+  "keywords": [
+    "voxes",
+    "sdk"
+  ],
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voxesapp/voxes-nuxt-sdk.git"
+  },
+  "author": "Patrick Gulas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voxesapp/voxes-nuxt-sdk/issues"
+  },
+  "homepage": "https://voxes.io"
+}
